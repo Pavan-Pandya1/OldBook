@@ -15,6 +15,7 @@ public class BookController {
 
     @Autowired
     private BookServiceImpl bookServiceImpl;
+    //this is book service implementation class
 
     @Autowired
     private UserServiceImpl userServiceImpl;
